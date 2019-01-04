@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class LibraryController {
 
-	public List<Book> getBooks() {
-		
+	public Book getBooks() {
+		return null;
 	}
 }
